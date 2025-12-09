@@ -1,0 +1,5 @@
+{
+  "name": "NutriCart",
+  "description": "A smart grocery assistant that manages lists, predicts needs based on history, monitors expiry dates, and suggests healthier alternatives using smart rules.",
+  "requestFramePermissions": []
+}
